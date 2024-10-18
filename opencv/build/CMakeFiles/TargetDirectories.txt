@@ -1,0 +1,5 @@
+/home/liuiu/桌面/env/opencv/build/CMakeFiles/edit_cache.dir
+/home/liuiu/桌面/env/opencv/build/CMakeFiles/rebuild_cache.dir
+/home/liuiu/桌面/env/opencv/build/bin/CMakeFiles/main.dir
+/home/liuiu/桌面/env/opencv/build/bin/CMakeFiles/edit_cache.dir
+/home/liuiu/桌面/env/opencv/build/bin/CMakeFiles/rebuild_cache.dir
