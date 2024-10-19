@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/CMakeFiles/g2o-populate"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/CMakeFiles/g2o-populate.rule"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/CMakeFiles/g2o-populate-complete.rule"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-build.rule"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-configure.rule"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-download.rule"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-install.rule"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-patch.rule"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-test.rule"
+		},
+		{
+			"file" : "/home/liuiu/\u684c\u9762/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"g2o-populate"
+		],
+		"name" : "g2o-populate"
+	}
+}

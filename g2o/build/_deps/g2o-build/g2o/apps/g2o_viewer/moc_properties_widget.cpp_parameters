@@ -1,0 +1,8 @@
+-I/usr/include/opencv4
+-I/usr/include/eigen3
+-I/home/liuiu/桌面/env/g2o/build/_deps/g2o-src
+-I/home/liuiu/桌面/env/g2o/build/_deps/g2o-build
+-DUNIX
+-o
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-build/g2o/apps/g2o_viewer/moc_properties_widget.cpp
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-src/g2o/apps/g2o_viewer/properties_widget.h

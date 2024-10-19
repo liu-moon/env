@@ -1,0 +1,14 @@
+# Target labels
+ g2o-populate
+# Source files and their labels
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/CMakeFiles/g2o-populate
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/CMakeFiles/g2o-populate.rule
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/CMakeFiles/g2o-populate-complete.rule
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-build.rule
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-configure.rule
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-download.rule
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-install.rule
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-mkdir.rule
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-patch.rule
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-test.rule
+/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/g2o-populate-prefix/src/g2o-populate-stamp/g2o-populate-update.rule

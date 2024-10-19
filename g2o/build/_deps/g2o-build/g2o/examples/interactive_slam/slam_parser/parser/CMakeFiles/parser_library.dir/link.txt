@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++17 -O3  -Wall -W -O3 -DNDEBUG -O3 -shared -Wl,-soname,libg2o_parser.so -o ../../../../../../g2o-src/lib/libg2o_parser.so CMakeFiles/parser_library.dir/slam_context.cpp.o CMakeFiles/parser_library.dir/bison_parser.cpp.o CMakeFiles/parser_library.dir/driver.cpp.o CMakeFiles/parser_library.dir/flex_scanner.cpp.o 
