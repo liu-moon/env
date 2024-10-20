@@ -1,2 +1,2 @@
-ceres/build/
+ceres/build/*
 !ceres/build/.gitkeep
