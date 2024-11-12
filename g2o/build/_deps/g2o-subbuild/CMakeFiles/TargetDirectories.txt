@@ -1,3 +1,0 @@
-/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/CMakeFiles/g2o-populate.dir
-/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/CMakeFiles/edit_cache.dir
-/home/liuiu/桌面/env/g2o/build/_deps/g2o-subbuild/CMakeFiles/rebuild_cache.dir
