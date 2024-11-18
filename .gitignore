@@ -1,2 +1,4 @@
 ceres/build/*
 !ceres/build/.gitkeep
+pangolin/build/*
+g2o/build/*
