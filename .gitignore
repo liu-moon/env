@@ -2,3 +2,8 @@ ceres/build/*
 !ceres/build/.gitkeep
 pangolin/build/*
 g2o/build/*
+g2o_sys/.idea/*
+g2o_sys/.vscode/*
+g2o_sys/build/*
+g2o_sys/cmake/*
+g2o_sys/cmake-build-debug/*
